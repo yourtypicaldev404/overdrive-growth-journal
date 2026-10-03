@@ -1,0 +1,1 @@
+export const metadata={title:"Overdrive Growth Journal",description:"Daily growth log for Overdrive"};import "./globals.css";export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
